@@ -3,9 +3,9 @@
 
 
 class BaseGeometry:
-    """Class BaseGeometry based on task 5"""
-    
-    def area(self):
-        """Function that caclculate the area"""
+    """class BaseGeometry (based on 5-base_geometry.py)."""
 
-        raise Exception("area()  is not implemented")
+    def area(self):
+        """Function that computes area (not implemented yet)"""
+
+        raise Exception("area() is not implemented")
